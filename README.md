@@ -43,14 +43,6 @@ Se entrenan y evalúan tres modelos de clasificación:
 - Random Forest
 - Regresión Logística
 
-Para cada modelo, se calculan y muestran:
-- Precisión (accuracy)
-- Tiempo de entrenamiento
-- Resultados de validación cruzada (5-fold)
-- Informe de clasificación detallado (precision, recall, f1-score)
-- Matriz de confusión
-- Importancia de características (para modelos basados en árboles)
-
 ### 4. Comparación de Modelos
 
 Se comparan los tres modelos en términos de:
