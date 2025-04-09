@@ -2,21 +2,6 @@
 
 Este proyecto implementa un análisis completo del dataset de cáncer de mama de Wisconsin utilizando diferentes algoritmos de machine learning para clasificar tumores como malignos o benignos.
 
-## Descripción
-
-El programa realiza las siguientes tareas:
-
-1. Carga y exploración del dataset de cáncer de mama
-2. Preparación y normalización de los datos
-3. Entrenamiento y evaluación de tres modelos de clasificación:
-   - Árbol de Decisión
-   - Random Forest
-   - Regresión Logística
-4. Comparación de rendimiento entre los modelos
-5. Optimización de hiperparámetros para el mejor modelo
-6. Evaluación del modelo optimizado
-7. Presentación de conclusiones y recomendaciones
-
 ## Requisitos
 
 Para ejecutar este código necesitas tener instalado Python 3.6 o superior y las siguientes bibliotecas:
